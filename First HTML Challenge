@@ -22,18 +22,20 @@
 		<!--Heebs! Look! My code is even sorta commented a little bit! -->
             <p>This final paragraph is going to include some random blathering, in the form of ordered and unordered lists. It will also contain a healthy amount of other things like a random quote from Anton Scalia's dissent this week.</p>
 			<ol>
-				<li>Thoughts on Music Streaming Services</li>
+				<li>Thoughts on Music Streaming Services
 					<ul>
 						<li>User Interface is super important.</li>
 						<li>Spotify is awesome.</li>
 						<li>I don't trust Apple Music to be my platform of choice for music, and as a result, I am likely not going to continue my trial beyond the standard three month trial.</li>
 					</ul>
-				<li>Thoughts on Famous Rules</li>
+				</li>
+				<li>Thoughts on Famous Rules
 					<ul>
 						<li>The First Rule of Fight Club Should Be Taken Ironically</li>
 						<li>The Constitution Is More Like A Guideline Anyway</li>
 						<li>I can capitalize Anything I want. seriously.</li>
 					</ul>
+				</li>
 			</ol>
 			<p>And now for Justice Scalia! 
 			<blockquote cite="http://www.latimes.com/nation/la-na-gay-marriage-scalia-dissent-20150626-story.html"> "Take, for example, this court, which consists of only nine men and women, all of them successful lawyers who studied at Harvard or Yale Law School. Four of the nine are natives of New York City. Eight of them grew up in east- and west-coast States. Only one hails from the vast expanse in-between. Not a single south-westerner or even, to tell the truth, a genuine Westerner (California [where Kennedy hails from] does not count). Not a single evangelical Christian (a group that comprises about one quarter of Americans), or even a Protestant of any denomination. The strikingly unrepresentative character of the body voting on today's social upheaval would be irrelevant if they were functioning as judges .... But of course the justices in today's majority are not voting on that basis."</blockquote>
